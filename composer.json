@@ -1,0 +1,25 @@
+{
+    "name": "yxyx123456/yu",
+    "description": "wan",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuxiang",
+            "email": "418404572@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:yxyx123456/yu.git"
+        },
+        {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    ]
+}
