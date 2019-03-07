@@ -19,7 +19,7 @@
         },
         {
             "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
+            "url": "http://packagist.phpcomposer.com"
         }
     ],
     "autoload": {
