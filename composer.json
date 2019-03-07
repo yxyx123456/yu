@@ -21,5 +21,10 @@
             "type": "composer",
             "url": "https://packagist.org"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "YanlongMa\\Push\\": "a/"
+        }
+    }
 }
